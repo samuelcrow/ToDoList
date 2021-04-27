@@ -13,20 +13,21 @@ code {
 }
 
 .app {
-  background: #BF0426;
+  background: #8BD6D6;
   padding: 30px;
   height: 100vh;
 }
 
 .todo-list{
-  background: #F2EEEB;
+  margin: auto;
+  background: #BF91EB;
   border-radius: 4px;
   padding: 5px;
   max-width: 400px;
 }
 
 .todo{
-  background: #B8BFA8;
+  background: #FFCBA1;
   box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
   padding: 3px 10px;
   font-size: 24px;
@@ -46,4 +47,10 @@ code {
   padding: 1rem;
   height: 2.25em;
   font-size: 24px;
+}
+.header{
+  text-align: center;
+}
+.input{
+  background-color: #D7E89E;
 }
